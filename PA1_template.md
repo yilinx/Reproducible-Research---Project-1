@@ -10,19 +10,19 @@ The purpose of this analysis is to make use of data from a personal activity mon
 
 <style type="text/css">
 
-/*  CSS chunck 1  */
-th {  background-color:#E0E0E0 ;
-      border-bottom:1px solid black;
-      padding:5px;}
+        /*  CSS chunck 1  */
+        th {  background-color:#E0E0E0 ;
+                border-bottom:1px solid black;
+                padding:5px;}
 
-td{
-border-bottom:1px dotted black;
-padding:10px;}
+        td{
+        border-bottom:1px dotted black;
+        padding:10px;}
 
-table{ 
-border-collapse:collapse;
-margin:left;
- border: 1px solid black;}
+        table{ 
+                border-collapse:collapse;
+                margin:left;
+                border: 1px solid black;} 
  
 </style>
 
